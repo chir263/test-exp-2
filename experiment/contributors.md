@@ -2,4 +2,21 @@
 title: Contributors
 ---
 
-orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+### Subject Matter Experts
+
+| SNo. | Name                    | Email | Institute      | ID  |
+| ---- | ----------------------- | ----- | -------------- | --- |
+| 1    | Dr. Venkatesh Choppella |       | IIIT Hyderabad |     |
+
+### Developers
+
+| SNo. | Name               | Email                                 | Institute               | ID         |
+| ---- | ------------------ | ------------------------------------- | ----------------------- | ---------- |
+| 1    | Ganne Jyotheeswar  | ganne.jyotheeswar@students.iiit.ac.in | IIIT Hyderabad          |            |
+| 2    | Shruti Patchigolla | shruti.patchigolla@gmail.com          | University of Hyderabad |            |
+| 3    | Gokulraj R         | gokulraj.r@students.iiit.ac.in        | IIIT Hyderabad          | 2020102042 |
+| 4    | Pranav Vats        | vats@disroot.org                      | IIIT Hyderabad          |            |
+| 5    | Akshay Aralikatti  | aralikatti94@gmail.com                | IIIT Hyderabad          |            |
+| 6    | Aarush Jain        |                                       | IIIT Hyderabad          |            |
+| 7    | Aayan Aggarwal     |                                       | IIIT Hyderabad          |            |
